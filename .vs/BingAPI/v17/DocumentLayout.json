@@ -1,0 +1,37 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\Repos\\BingAPI\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{86232624-198C-4DBF-815E-3E646580665C}|BingAPI\\BingAPI.csproj|d:\\repos\\bingapi\\bingapi\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{86232624-198C-4DBF-815E-3E646580665C}|BingAPI\\BingAPI.csproj|solutionrelative:bingapi\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\Repos\\BingAPI\\BingAPI\\Program.cs",
+              "RelativeDocumentMoniker": "BingAPI\\Program.cs",
+              "ToolTip": "D:\\Repos\\BingAPI\\BingAPI\\Program.cs",
+              "RelativeToolTip": "BingAPI\\Program.cs",
+              "ViewState": "AQIAAA8AAAAAAAAAAAA5wCIAAAA+AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-30T06:50:44.341Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
